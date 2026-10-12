@@ -79,7 +79,7 @@ _Flight plots and test data will go here._
 ## Authors
 
 - [@bee-0207](https://github.com/bee-0207)
-- _Collaborator — add yourself here!_
+- [@maui-i](https://github.com/maui-i)
 
 ## License
 
