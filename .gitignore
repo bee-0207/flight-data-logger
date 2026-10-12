@@ -1,0 +1,27 @@
+# Build output
+build/
+.pio/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDEs
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Raw flight logs (commit curated samples to data/sample_flights instead)
+data/raw/
